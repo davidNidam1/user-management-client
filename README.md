@@ -84,6 +84,12 @@ http://localhost:5173
 - **Protected Routes:** Only logged-in users can access certain pages.
 - **Logout:** Users can securely log out.
 
+
+## Related Repositories  
+- **Backend Repository:** [User Management API](https://github.com/davidNidam1/UserManagement)  
+- **Testing Repository:** [User Management Tests](https://github.com/davidNidam1/UserServerTests)
+
+
 ## Future Improvements  
 If more time were available, the following improvements could be implemented:
 - **More advanced UI/UX design** with animations and better styling.
