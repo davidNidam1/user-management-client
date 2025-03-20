@@ -8,14 +8,17 @@ The application provides the following key views:
 
 #### Registration Page
 ![Registration](assets/Register.png)
+
 Users can create a new account by providing their full name, email, and password.
 
 #### Login Page
 ![Login](assets/Login.png)
+
 Registered users can log in using their email and password.
 
 #### Welcome Page
 ![Welcome](assets/HomePage.png)
+
 After logging in, users see a personalized welcome message and can log out.
 
 ## Technologies Used  
