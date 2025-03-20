@@ -7,15 +7,15 @@ This repository contains the frontend for the User Management system, built with
 The application provides the following key views:
 
 #### Registration Page
-![Registration](assets/register.png)
+![Registration](assets/צילום מסך 2025-03-20 101242.png)
 Users can create a new account by providing their full name, email, and password.
 
 #### Login Page
-![Login](assets/login.png)
+![Login](assets/צילום מסך 2025-03-20 101312.png)
 Registered users can log in using their email and password.
 
 #### Welcome Page
-![Welcome](assets/welcome.png)
+![Welcome](assets/צילום מסך 2025-03-20 101325.png)
 After logging in, users see a personalized welcome message and can log out.
 
 ## Technologies Used  
